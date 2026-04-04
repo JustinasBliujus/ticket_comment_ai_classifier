@@ -23,7 +23,7 @@ git clone https://github.com/JustinasBliujus/ticket_comment_ai_classifier
 ### 2. Navigate to the backend project
 
 ```
-cd tickets
+cd .\ticket_comment_ai_classifier\
 ```
 
 Set the environment variables in IntelliJ (or another way)
