@@ -10,7 +10,7 @@ A support ticket management system, where user comments are automatically analyz
 - Maven
 - Node.js
 - HuggingFace account and API token
-- InteliJ
+- IntelliJ
 
 ## Local Development Setup
 
@@ -26,7 +26,7 @@ git clone https://github.com/JustinasBliujus/ticket_comment_ai_classifier
 cd tickets
 ```
 
-Set the environment variables in InteliJ (or another way)
+Set the environment variables in IntelliJ (or another way)
 - Open **Run Configurations** -> Edit Configurations
 - Find Spring Boot run config
 - Add environment variables:
