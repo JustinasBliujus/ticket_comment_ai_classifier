@@ -44,7 +44,7 @@ HF_ACCESS_TOKEN=your token here;
 Run the application.
 Backend will start at `http://localhost:8080`
 Frontend will be served from the static folder. 
-Frontend was built with assistance of claude.ai [Frontend repository](https://github.com/JustinasBliujus/ticket_classifer_fe)
+Frontend was built with assistance of claude.ai [Frontend repository](https://github.com/JustinasBliujus/ticket_classifier_fe)
 
 ## Or Run With Docker
 - Run Docker Daemon
