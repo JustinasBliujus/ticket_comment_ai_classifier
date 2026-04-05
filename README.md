@@ -30,7 +30,7 @@ cd .\ticket_comment_ai_classifier\
 ### 3. Setup IDE and Maven
 
 - On the right hand side open Maven and sync project.
-- If not Maven icon is present, **right click on pom.xml** -> Add as Maven project
+- If no Maven icon is present, **right click on pom.xml** -> Add as Maven project
   
 Set the environment variables in IntelliJ (or another way)
 - Open **Run Configurations** -> Edit Configurations
