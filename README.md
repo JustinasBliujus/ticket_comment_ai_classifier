@@ -31,8 +31,6 @@ cd .\ticket_comment_ai_classifier\
 
 - On the right hand side open Maven and sync project.
 - If no Maven icon is present, **right click on pom.xml** -> Add as Maven project
-  
-Set the environment variables in IntelliJ (or another way)
 - Open **Run Configurations** -> Edit Configurations
 - Find Spring Boot run config
 - Choose Java 21
